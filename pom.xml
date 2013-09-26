@@ -30,6 +30,9 @@
 						</goals>
 					</execution>
 				</executions>
+				<configuration>
+					<generatePackage>ru.yandex.qatools.xmlsearch.beans</generatePackage>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
